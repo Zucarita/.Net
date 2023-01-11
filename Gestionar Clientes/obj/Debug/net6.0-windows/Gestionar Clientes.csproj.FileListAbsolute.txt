@@ -1,0 +1,8 @@
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar Clientes.csproj.AssemblyReference.cache
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar_Clientes.Form1.resources
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar_Clientes.Form2.resources
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar Clientes.csproj.GenerateResource.cache
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar Clientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar Clientes.AssemblyInfoInputs.cache
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar Clientes.AssemblyInfo.cs
+D:\Curso C#\Gestionar Clientes\Gestionar Clientes\obj\Debug\net6.0-windows\Gestionar Clientes.csproj.CoreCompileInputs.cache
